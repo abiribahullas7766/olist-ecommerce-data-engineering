@@ -2,6 +2,11 @@
 
 An end-to-end e-commerce data engineering project built using Databricks, PySpark, Delta Lake, and SQL. This project transforms raw e-commerce data into clean, structured, analytics-ready datasets and business insights.
 
+## Dashboard Preview
+
+![Olist E-Commerce Analytics Dashboard](Olist%20E-Commerce%20Analytics%20Dashboard.png)
+
+
 ## Project Overview
 
 The goal of this project is to build a data engineering pipeline that processes e-commerce data through multiple layers, performs data quality validation, monitors pipeline execution, and provides business insights through analytical tables and a dashboard.
