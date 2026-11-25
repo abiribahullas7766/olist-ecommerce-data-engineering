@@ -15,6 +15,7 @@ The platform follows the **Medallion Architecture** approach:
 ---
 
 ## Architecture
+![Olist Data Engineering Architecture](Olist Lakehouse Medallion Architecture.png)
 
 ```mermaid
 flowchart TD
